@@ -7,18 +7,18 @@
 
 ---
 
-## 📑 INDEX OF DIRECTORIES
+## 📑 DIRECTORY INDEX
 
-- [`0x01 // STREAM_AGGREGATORS`](#0x01--stream_aggregators)
-- [`0x02 // P_STREAM_FORKS`](#0x02--p_stream_forks)
-- [`0x03 // DEDICATED_SERVERS`](#0x03--dedicated_servers)
-- [`0x04 // MULTI_SERVERS`](#0x04--multi_servers)
-- [`0x05 // AD_SUPPORTED_STREAMS`](#0x05--ad_supported_streams)
-- [`0x06 // STREAMING_APPS`](#0x06--streaming_apps)
+- [`0x01 // Primary Stream Aggregators`](#0x01--primary-stream-aggregators)
+- [`0x02 // Community P-Stream Forks`](#0x02--community-p-stream-forks)
+- [`0x03 // Dedicated Server Networks`](#0x03--dedicated-server-networks)
+- [`0x04 // Multi-Server Platforms`](#0x04--multi-server-platforms)
+- [`0x05 // Ad-Supported Free Streams`](#0x05--ad-supported-free-streams)
+- [`0x06 // Desktop & CLI Apps`](#0x06--desktop--cli-apps)
 
 ---
 
-## `0x01 // STREAM_AGGREGATORS`
+## `0x01 // Primary Stream Aggregators`
 
 - **Note** - Sites that check and play streams within their own custom player exclusively.
 
@@ -27,7 +27,6 @@
 - 🌟 **[Movy](https://www.movy.sx/)** - Movies / TV / Anime / 4K / Auto-Next
 - 🌟 **[Cinejoy](https://cinejoy.pk/)** - Movies / TV / Anime / Auto-Next
 - 🌟 **[PopcornMovies](https://popcornmovies.ac/)** or **[BingeBox](https://bingebox.ac/)** - Movies / TV / Anime / Auto-Next
-- 🌟 **[P-Stream Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks)** - Movies / TV / Anime / Auto-Next
 - 🌟 **[7Movies](https://7movies.ac/)**, **[2](https://7movies.ws/)** - Movies / TV / Anime / Auto-Next
 - 🌟 **[Atlantic](https://atlantic.st/)** - Movies / TV / Anime / Auto-Next / 4K
 - 🌟 **[ShuttleTV](https://shuttletv.su/)**, **[2](https://shuttletv.pk/)**, **[3](https://shuttletv.me/)** - Movies / TV / Anime / Auto-Next
@@ -46,29 +45,23 @@
 - ⭐ **[Reelix](https://reelix.ac/)** or **[Coreflix](https://coreflix.tv/)** - Movies / TV / Anime / Auto-Next
 - ⭐ **[Spacedom](https://spacedom.live/)** - Movies / TV / Anime / Auto-Next
 - **[moanatv.](https://lfmx.app/)** - Movies / TV / Anime / Auto-Next / 4K
-- **[Nippleflix](https://nippleflix.com/)**, **[Redflix](https://redflix.one/)**, **[2](https://redflix.club/)** or **[PantyFlix](https://pantyflix.com/)** - Movies / TV / Anime / Auto-Next
 - **[BingeBang](https://bingebang.st/)** - Movies / TV / Anime / Auto-Next
 - **[Lightflix](https://lightflix.app/)** or **[Afterdusk](https://afterdusk.app/)** - Movies / TV / Anime / Auto-Next / 4K
 - **[Moonflix](https://moonflix.website/)** - Movies / TV / Anime / Auto-Next
 - **[ThugTV](https://thugtv.online/)** - Movies / TV / Anime / Auto-Next
 - **[Cinema (BZ)](https://cinema.army/)** - Movies / TV / Anime / Auto-Next
-- **[SvStream](https://svstream.cc/)**, **[2](https://nomorflix.cc/)**, **[3](https://diostream.cc/)** - Movies / TV / Anime / Auto-Next
 - **[Cinemove](https://cinemove.cc/)** or **[Cinex](https://cinex.lol/)** - Movies / TV / Anime / Auto-Next / 4K
 - **[Freekz](https://freekz.to/)** or **[ZXCSTREAM](https://zxcstream.com/)** - Movies / TV / Anime / Auto-Next
 - **[Movish](https://movish.to/)** or **[LatestMovies](https://latestmovies.net/)** - Movies / TV / Anime / Auto-Next
 - **[CinemaOS](https://cinemaos.live/)**, **[2](https://cinemaos.tech/)** or **[NoirX](https://noirx.me/)**, **[2](https://noirx.live/)** - Movies / TV / Anime / Auto-Next
-- **[GaiaFlix](https://gaiaflix.live/)** - Movies / TV / Anime
 - **[VidPlay](https://vidplay.to/)** - Movies / TV / Anime / Auto-Next
 - **[Cinegram](https://cinegram.tv/)** - Movies / TV / Anime / Auto-Next
 - **[Willow](https://willow.arlen.icu/)** - Movies / TV / Anime / Auto-Next
 - **[HiveX](https://hivex.stream/)** - Movies / TV / Anime / Auto-Next
-- **[Overlook](https://overlook.cx/)** - Movies / TV / Anime
 - **[Stigstream](https://stigstream.ru/)** - Movies / TV / Anime / Auto-Next
 - **[Cineapse](https://www.cineapse.net/)** - Movies / TV / Anime / Auto-Next / 4K
 - **[Bingr](https://bingr.one/)** - Movies / TV / Anime
 - **[M-Zone](https://m-zone.cc/)**, **[2](https://m-zone.org/)** - Movies / TV / Anime / Auto-Next
-- **[Stellar (rip)](https://stellar.rip/)** - Movies / TV / Anime / Auto-Next
-- **[All You Can Watch](https://allyoucanwatch.net/)** - Movies / TV / Anime
 - **[3eyedraven](https://3eyedraven.watch/)** - Movies / TV / Anime / Auto-Next
 - **[Cinetaro](https://cinetaro.to/)** - Movies / TV / Anime / Auto-Next / 4K
 - **[Flixtrz](https://flixtrz.com/)** - Movies / TV / Anime / Auto-Next
@@ -77,24 +70,19 @@
 - **[cineruv](https://cineruv.website/)** - Movies / TV / Anime / Auto-Next
 - **[MovieBite](https://moviebite.org/)** - Movies / TV / Anime / Auto-Next
 - **[VaultPlayer](https://vaultplayer.co.uk/)** - Movies / TV / Auto-Next
-- **[Mapple](https://mapple.fun/)** - Movies / TV / Anime
-- **[MovieNerds](https://movienerds.site/)**, **[2](https://vidflix.live/)**, **[3](https://movieplex.online/)** - Movies / TV / Anime / Auto-Next
+- **[MovieNerds](https://movienerds.site/)**, **[2](https://vidflix.live/)** - Movies / TV / Anime / Auto-Next
 - **[Smashystream](https://smashystream.xyz/)** - Movies / TV / Anime
 - **[NOVA](https://novahd.cc/)** - Movies / TV / Anime / Auto-Next
-- **[Youplex](https://youplex.site/)** - Movies / TV / Anime
-- **[Zoryva X](https://zoryva.me/)** - Movies / TV / Anime
 - **[PopcornTime](https://popwatch.to/)** - Movies / TV / Anime / Auto-Next
 - **[NetPlay](https://netplayz.icu/)** or **[Cinelove](https://cinelove.live/)** - Movies / TV / Anime / Auto-Next
 - **[Screenscape](https://screenscape.me/)** - Movies / TV / Anime / Auto-Next
-- **[StreamVaults](https://streamvaults.ru/)** or **[ReelStream](https://rreelstream.live/)** - Movies / TV / Anime
-- **[GreyBox](https://greyboxtv.pages.dev/)** - Movies / TV / Anime
 - **[Kofi](https://kofi.mov/)** - Movies / TV / Anime / Auto-Next
 - **[frameXTV](https://framextv.xyz/)** - Movies / TV / Anime
 - **[Nxsha](https://web.nxsha.app/)** - Movies / TV / Anime
 
 ***
 
-## `0x02 // P_STREAM_FORKS`
+## `0x02 // Community P-Stream Forks`
 
 - **Note** - Sites that fork the original P-Stream / movie-web projects.
 
@@ -105,13 +93,13 @@
 - ⭐ **[Basement](https://basementx.lol/)** - Movies / TV / Anime / Auto-Next / 4K
 - **[kstream](https://kdesa.stream/)**, **[2](https://kdesa.app/)** - Movies / TV / Anime / Auto-Next
 - **[⁠Cinefork](https://cinefork.net/)** - Movies / TV / Anime / Auto-Next
-- **[StreamWatch](https://streamwatch.online/)**, **[2](https://pstream.site/)**, **[3](https://streamwatch.pages.dev/)** - Movies / TV / Anime / Auto-Next
+- **[StreamWatch](https://streamwatch.online/)**, **[2](https://pstream.site/)** - Movies / TV / Anime / Auto-Next
 - **[⁠FMFAU](https://fmfau.com/)** - Movies / TV / Anime / Auto-Next
 - **[peestream](https://peestream.in/)** - Movies / TV / Anime / Auto-Next
 
 ***
 
-## `0x03 // DEDICATED_SERVERS`
+## `0x03 // Dedicated Server Networks`
 
 - **Note** - Sites with a focus on a single player / server.
 
@@ -123,30 +111,28 @@
 - **[Streaming Unity](https://streamingunity.vip/)** - Movies / TV / Anime
 - **[Abibli](https://abibli.com/)** - Movies / TV
 - **[SoapGo](https://soapgo.to/)** - Movies / TV / Anime
-- **[CinemaCity](https://cinemacity.cc/)** - Movies / TV / Anime / Requires Sign-Up
 - **[arc018](https://arc018.stream/)** - Movies / TV / Anime
 - **[RidoMovies](https://ridomovies.is/)** - Movies / TV
 - **[Filmo](https://filmo.to/)** - Movies / 3rd Party Host
 - **[AZMovies](https://azmovies.to/)** - Movies / TV / Anime
 - **[OnionPlay](https://onionplay.st/)** - Movies / TV / Anime
-- **[ShowBox](https://www.showbox.media/)** - Movies / TV / Anime
 - **[UniqueStream](https://uniquestream.net/)** - Movies / TV / Anime / 720p
 - **[BFLIX](https://bbflix.one/)** - Movies / TV
 - **[FshareTV](https://fsharetv.co/)** - Movies
 - **[MovieNestBD](https://movienestbd.best/)** - Movies / TV / Anime
 - **[M4uHD](https://m4uhd.vip)** - Movies / TV / Anime
-- **[Levidia](https://www.levidia.ch/)**, **[2](https://supernova.to/)**, **[3](https://ww1.goojara.to/)** - Movies / TV / Anime
+- **[Levidia](https://www.levidia.ch/)**, **[2](https://supernova.to/)** - Movies / TV / Anime
 - **[SubSL](https://subsl.top/)** - Movies / TV / 720p
-- **[PrimeWire](https://www.primewire.mov/)**, **[2](https://primewire.zip/)**, **[3](https://primewire.pw/)** - Movies / TV / Anime
+- **[PrimeWire](https://www.primewire.mov/)**, **[2](https://primewire.zip/)** - Movies / TV / Anime
 - **[YesMovie](https://ww1.yesmovies.ag/)** - Movies / TV / 720p
-- **[HollyMovieHD](https://hollymoviehd.cc/)**, **[2](https://yeshd.net/)**, **[3](https://novamovie.net/)**, **[4](https://nmovies.cc/)** - Movies / TV / Anime
+- **[HollyMovieHD](https://hollymoviehd.cc/)**, **[2](https://yeshd.net/)** - Movies / TV / Anime
 - **[Downloads-Anymovies](https://www.downloads-anymovies.co/)** - Movies
-- **[MovieBox](https://movieboxonline.net)**, **[2](https://officialmoviebox.com/)** - Movies / TV / Anime
-- **[LookMovie](https://lookmovie2.to/)**, **[2](https://lookmovie2.la/)** - Movies / TV / Auto-Next / 480p
+- **[MovieBox](https://movieboxonline.net)** - Movies / TV / Anime
+- **[LookMovie](https://lookmovie2.to/)** - Movies / TV / Auto-Next / 480p
 
 ***
 
-## `0x04 // MULTI_SERVERS`
+## `0x04 // Multi-Server Platforms`
 
 - **Note** - Sites that allow users to choose between multiple different players from a list.
 
@@ -187,7 +173,6 @@
 - **[Ernax](https://ernax.pro/)** - Movies / TV / Anime
 - **[FLNK](https://flnk.fun/)** - Movies / TV / Anime
 - **[WatchSeries](https://watchseries.bar/)** - Movies / TV / Anime
-- **[Pawflix](https://pawflix.foo.ng/)** - Movies / TV / Anime
 - **[CinebyTV](https://cinebytv.com)** - Movies / TV / Anime
 - **[TVids](https://www.tvids.to/)** - Movies / TV / Anime / Auto-Next
 - **[Movies To Watch](https://www.moviestowatch.top/)** - Movies / TV / Anime
@@ -209,7 +194,7 @@
 
 ***
 
-## `0x05 // AD_SUPPORTED_STREAMS`
+## `0x05 // Ad-Supported Free Streams`
 
 - ⭐ **[Tubi](https://tubitv.com)** - Movies / TV / 720p
 - ⭐ **[Plex](https://watch.plex.tv/)** - Movies / TV / 720p
@@ -222,7 +207,7 @@
 
 ***
 
-## `0x06 // STREAMING_APPS`
+## `0x06 // Desktop & CLI Apps`
 
 - ⭐ **[PlayTorrio](https://playtorrio.xyz/)** - Streaming App / Windows, macOS, Linux
 - ⭐ **[⁠Vyla Home](https://vyla.cc/products/home)** - Streaming App / Windows, macOS, Linux
